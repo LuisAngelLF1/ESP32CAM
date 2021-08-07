@@ -15,5 +15,5 @@ integrado en las esp32cam a la vez que se esta teniendo imagen en el servidor.
 https://github.com/LuisAngelLF1/ESP32CAMSICUAMG2/blob/main/ejemploCamEsp32
 
 ejemploLedEsp: Se enciende y apaga periodicamente el flash del esp32cam.
-https://github.com/LuisAngelLF1/ESP32CAMSICUAMG2/blob/main/ejemploLedEsp/ejemploLedEsp.ino
+https://github.com/LuisAngelLF1/ESP32CAMSICUAMG2/blob/main/ejemploLedEsp
 
