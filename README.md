@@ -18,8 +18,10 @@ y un led externo a través de un pin GPIO.
 https://github.com/LuisAngelLF1/ESP32CAMSICUAMG2/blob/main/ESP32CAM-WiFi-Basic
 
 ESP32CAM_MQTT-Basic: Permite la integración de MQTT con la tarjeta de desarrollo ESP32 y el protocolo MQTT, haciendo uso del servidor hivemq.com 
+Clonado de: https://github.com/codigo-iot/ESP32CAM_MQTT-Basic
 
 DHT11: Hace uso de la placa y del sensor de temperatura para mostrar la temperatura en el IDE de arduino a través del monitor serie. 
+https://github.com/LuisAngelLF1/ESP32CAMSICUAMG2/tree/main/DHT11
 
 
 
