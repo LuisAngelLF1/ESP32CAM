@@ -6,14 +6,22 @@ diversos proyecto para multiples propositos.
 A continuación se realiza una descripcion de los proyectos que contiene, en donde cada uno contiene a su vez, el código necesario para su implementación,
 así como la evidencia del funcionamiento de cada uno por medio de fotos o capturas de pantalla. 
 
-ESP32CAM-WiFi-Basic: Permite realizar una conexion basica por Wifi, además se logra encender los leds integrados en la tarjeta
-y un led externo a través de un pin GPIO. 
-https://github.com/LuisAngelLF1/ESP32CAMSICUAMG2/blob/main/ESP32CAM-WiFi-Basic
+ejemploLedEsp: Se enciende y apaga periodicamente el flash del esp32cam.
+https://github.com/LuisAngelLF1/ESP32CAMSICUAMG2/blob/main/ejemploLedEsp
 
 ejemploCamEsp32: Logra la conexión con un servidor en donde se vera reflejada la imagen capturada por la camara, además se logra encender el flash
 integrado en las esp32cam a la vez que se esta teniendo imagen en el servidor. 
 https://github.com/LuisAngelLF1/ESP32CAMSICUAMG2/blob/main/ejemploCamEsp32
 
-ejemploLedEsp: Se enciende y apaga periodicamente el flash del esp32cam.
-https://github.com/LuisAngelLF1/ESP32CAMSICUAMG2/blob/main/ejemploLedEsp
+ESP32CAM-WiFi-Basic: Permite realizar una conexion basica por Wifi, además se logra encender los leds integrados en la tarjeta
+y un led externo a través de un pin GPIO. 
+https://github.com/LuisAngelLF1/ESP32CAMSICUAMG2/blob/main/ESP32CAM-WiFi-Basic
+
+ESP32CAM_MQTT-Basic: Permite la integración de MQTT con la tarjeta de desarrollo ESP32 y el protocolo MQTT, haciendo uso del servidor hivemq.com 
+
+DHT11: Hace uso de la placa y del sensor de temperatura para mostrar la temperatura en el IDE de arduino a través del monitor serie. 
+
+
+
+
 
